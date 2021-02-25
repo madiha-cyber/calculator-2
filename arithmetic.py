@@ -3,7 +3,7 @@
 
 def add(num1, num2):
     """Return the sum of the two inputs."""
-    print(num1, num2)
+
 
     return num1 + num2
     
